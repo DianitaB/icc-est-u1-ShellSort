@@ -1,6 +1,6 @@
 public class App {
     public static void main(String[] args) throws Exception {
-        int [ ] numeros ={5, 0, 8, 4, 9, 6, 7 , 2 ,3}; 
+        int [ ] numeros =new int [] {5, 0, 8, 4, 9, 6, 7 , 2 ,3}; 
         SortShell sortShell = new SortShell();
         View view = new View();
     

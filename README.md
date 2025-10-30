@@ -4,3 +4,6 @@
 
 ### Práctica 4  28/OCT
 Método Shell Sort 
+
+## Salida Comparaciones
+![Resultado de Ejecución](assets/comparaciones.png)
